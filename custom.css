@@ -1,0 +1,17 @@
+/* Base branca do controle */
+.xbox.white {
+    background: url("https://fel00z.github.io/Sticks/xboxWhiteBLueCustom%203.0.svg") no-repeat center;
+    background-size: contain;
+}
+
+/* Botões ABXY */
+.xbox .button {
+    background: url("https://fel00z.github.io/Sticks/abxy%208.0.svg") no-repeat center;
+    background-size: contain;
+}
+
+/* Stick personalizado */
+.xbox .stick {
+    background: url("https://fel00z.github.io/Sticks/stick%20one%20piece.svg") no-repeat center;
+    background-size: contain;
+}
