@@ -28,18 +28,18 @@ background-position: -148px 2px;
     top: 7px;
 }
 .xbox .b {
-    background-position: -48px 1px !important;
-    top: 58px !important;
-    right: 0px !important;
+    background-position: -48px 1px;
+    top: 58px;
+    right: 0px;
 }
 .xbox .a {
-    background-position: 0px 1px !important;
-    top: 108px !important;
-    left: 55px !important;
+    background-position: 0px 1px;
+    top: 108px;
+    left: 55px;
 }
 .xbox .x {
-    background-position: -98px 1px !important;
-    top: 58px !important;
-    left: 4px !important;
+    background-position: -98px 1px;
+    top: 58px;
+    left: 4px;
 }
 
