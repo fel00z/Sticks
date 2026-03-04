@@ -23,23 +23,23 @@
 }
 
 .xbox .y {
-background-position: -148px 8px;
-    left: 55px;
-    top: 7px;
+background-position: -148px 2px !important;
+    left: 55px !important;
+    top: 7px !important;
 }
 .xbox .b {
-    background-position: -46px 6px;
-    top: 58px;
-    right: 0px;
+    background-position: -48px 1px !important;
+    top: 58px !important;
+    right: 0px !important;
 }
 .xbox .a {
-    background-position: 0px 5px;
-    top: 108px;
-    left: 55px;
+    background-position: 0px 1px !important;
+    top: 108px !important;
+    left: 55px !important;
 }
 .xbox .x {
-    background-position: -98px 6px;
-    top: 58px;
-    left: 4px;
+    background-position: -98px 1px !important;
+    top: 58px !important;
+    left: 4px !important;
 }
 
