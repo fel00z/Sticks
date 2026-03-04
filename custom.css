@@ -23,9 +23,9 @@
 }
 
 .xbox .y {
-background-position: -148px 2px !important;
-    left: 55px !important;
-    top: 7px !important;
+background-position: -148px 2px;
+    left: 55px;
+    top: 7px;
 }
 .xbox .b {
     background-position: -48px 1px !important;
