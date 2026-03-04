@@ -1,22 +1,23 @@
 /* Base branca do controle */
 .xbox.white {
-    background: url("https://fel00z.github.io/Sticks/xboxWhiteBLueCustom%203.0.svg") no-repeat center !important;
+    background-image: url("https://fel00z.github.io/Sticks/xboxWhiteBLueCustom%203.0.svg") !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
     background-size: contain !important;
 }
 
-/* Botões ABXY */
+/* Botões ABXY (MANTER SISTEMA DE SPRITE) */
 .xbox .button {
-    background: url("https://fel00z.github.io/Sticks/abxy%208.0.svg") no-repeat center !important;
-    background-size: contain !important;
+    background-image: url("https://fel00z.github.io/Sticks/abxy%208.0.svg") !important;
+    background-repeat: no-repeat !important;
+    /* NÃO colocar background-position aqui */
+    /* NÃO colocar background-size: contain */
 }
 
 /* Stick personalizado */
 .xbox .stick {
-    background: url("https://fel00z.github.io/Sticks/stick%20one%20piece.svg") no-repeat center !important;
+    background-image: url("https://fel00z.github.io/Sticks/stick%20one%20piece.svg") !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
     background-size: contain !important;
 }
-
-
-
-
-
